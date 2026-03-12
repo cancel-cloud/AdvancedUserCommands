@@ -5,6 +5,7 @@
   "name": "Advanced User Commands",
   "description": "Advanced client-side user commands for Minecraft.",
   "authors": ["Lukas"],
+  "icon": "assets/advanced-user-commands/icon.png",
   "website": "https://github.com/cancel-cloud/AdvancedUserCommands",
   "issues": "https://github.com/cancel-cloud/AdvancedUserCommands/issues",
   "contact": {},
